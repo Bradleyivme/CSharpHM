@@ -1,0 +1,13 @@
+C:\csharp\www\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.exe
+C:\csharp\www\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.deps.json
+C:\csharp\www\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.json
+C:\csharp\www\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.dev.json
+C:\csharp\www\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.dll
+C:\csharp\www\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.pdb
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.csprojAssemblyReference.cache
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfoInputs.cache
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfo.cs
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.csproj.CoreCompileInputs.cache
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.dll
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.pdb
+C:\csharp\www\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.genruntimeconfig.cache
